@@ -1,1 +1,3 @@
-# asuu
+# asu.lua
+
+## powerful lua
